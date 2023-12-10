@@ -2,9 +2,5 @@ Founded in 2012, Big Star Collectibles is the premier online retailer of trading
 
 We have the largest inventory of fan favorite items on the web. And if we don't have it, ask us and our elite Star Hunter team will search the galaxy for your special treasure.
 
-<div class="ratio ratio-1x1" style="max-width:800px">
-<video  width="400px" height="auto" controls>
-  <source src="/images/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
+https://github.com/Musiik-fn/publishing-wiki/assets/4826567/6b5ba188-5881-4af0-857d-98522cd1ae2d
+
